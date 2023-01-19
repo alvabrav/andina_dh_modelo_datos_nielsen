@@ -1,0 +1,84 @@
+B0821TXT_fact_data
+-MKT_TAG: CODIGO DE MERCADO
+-PROD_TAG: CODIGO DE PRODUCTO
+-PER_TAG: CODIGO DE PERIODO
+-VENTAS_EN_UNID: 
+-VENTAS_EN_UNID_EQUIV: 
+-VENTAS_EN_VALOR: 
+-PART_VENTAS_EN_UNID: 
+-SHARE_VENTAS_UNID_EQUIV: 
+-PART_VENTAS_EN_VALOR: 
+-PRECIO_PROMEDIO_POR_UNID: 
+-INVEN_TOTAL_EN_UNID_EQUIV: 
+-DIST_POND_MANEJANTES: 
+-DIST_POND_MANEJANTES: 
+-DIST_POND_MANEJANTES: 
+-DIST_POND_MANEJANTES: 
+-DIST_POND_MANEJANTES: 
+-DIST_POND_MANEJANTES: 
+-COMPRAS_EN_UNID_EQUIV: 
+-VENTAS_EN_UNID_EQUIV_2: 
+-PRECIO_PROMEDIO_POR_UNID_EQUIV_2: 
+-DIST_NUMERICA_MANEJANTES: 
+-DIST_NUMERICA_MANEJANTES: 
+-DIST_NUMERICA_MANEJANTES: 
+-DIST_NUMERICA_MANEJANTES: 
+-DIST_NUMERICA_MANEJANTES: 
+-DIST_NUMERICA_MANEJANTES: 
+-PART_INVENS_EN_UNID_EQUIV: 
+-PART_COMPRAS_EN_UNID_EQUIV: 
+-DIST_POND_AGOTADOS: 
+-DIST_POND_VENDEDORAS: 
+-COMPRAS_DIRECTAS_EN_UNID_EQUIV: 
+-DIST_NUMERICA_DE_TIENDAS_VENDEDORAS: 
+-INVEN_ESPECIAL_FRIO_EN_UNID_EQUIV: 
+-INVEN_ACTIVO_NO_FRIO_EN_UNID_EQUIV: 
+-INVEN_ACTIVO_EN_UNID_EQUIV: 
+-PART_DE_INVEN_ACTIVO_EN_UNID_EQUIV: 
+-PART_DE_INVEN_ESPECIAL_FRIO_EN_UNID_EQUIV: 
+-PART_DE_MANEJANTES: 
+-DIST_NUMERICA_AGOTADOS: 
+-LAST_UPDATE: CAMPO DE AUDITORIA
+
+B0821TXT_MKT
+-TAG: Código de mercado
+-SHORT: Descripcion corta de mercado
+-LONG: Descripción largaa de mercado
+-DISPLAY_ORDER: Número de orden de despliegue
+-LAST_UPDATE: CAMPO DE AUDITORIA
+
+B0821TXT_PER
+-TAG: Código de periodo
+-SHORT: Descripcion corta de periodo
+-LONG: Descripción larga de periodo
+-DISPLAY_ORDER: Número de orden de despliegue
+-LAST_UPDATE: CAMPO DE AUDITORIA
+
+B0821TXT_PROD
+-TAG: Código del producto
+-SHORT: Descripción corta del producto
+-LONG: Descripción larga del producto
+-DISPLAY_ORDER: Número del orden de despliegue
+-PARENT_TAG: Código del padre del producto
+-HIER_NUM: Número de agregación del producto
+-HIER_NAME: Nombre de agregación del producto
+-HIER_LEVEL_NUM: Número del nivel de agregación del producto
+-HIER_LEVEL_NAME: Nombre del nivel de agregación del producto
+-CERVEZAS: Nivel inicial de agregacion del producto
+-FABRICANTE: Descripción de fabricante
+-MARCA: Descripción de marca
+-SUBMARCA: Descripción de sub marca
+-TIPO: Descripción de tipo
+-ENVASE: Descripción del envase
+-RET/NO RET: Descripción del tipo de envase
+-CON/SIN ALCOHOL: Descripción de cerveza con o sin alcohol
+-TAMANO: Descripción del tamaño
+-FAB IND.NAC.BO: Descripción del fabricante nacional
+-MAR IND NAL BO: Descripción de la marca nacional
+-SUBM IND NAL BO: Descripción de la sub marca nacional
+-TOTAL IND NACIONAL: Monto total industria nacional
+-FAB CONTRABANDO: Descripcion fabricante contrabando
+-MARCAS CONTRABANDO: Descripción de la marca contrabando
+-SUBMA CONTRBANDO: Descripción de la sub marca contrabando
+-TOTAL CONTRABANDO: Monto total contrabando
+-LAST_UPDATE: CAMPO DE AUDITORIA
